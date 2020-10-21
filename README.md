@@ -1,0 +1,45 @@
+Simple bird watching UI
+---
+- Add - adds a bird
+- Observation - adds an observation
+- All - prints all birds
+- One - prints one bird
+- Quit - ends the program
+---
+Sample output
+- ? 
+- Add
+- Name: Crow
+- Name in Latin: Corvus Corvus
+---
+- ? 
+- Add
+- Name: Hawk
+- Name in Latin: Dorkus Dorkus
+---
+- ? 
+- Observation
+- Bird? Hawk
+- ? 
+- Observation
+- Bird? 
+- Lion
+- Not a bird!
+- ? 
+- Observation
+- Bird? 
+- Hawk
+---
+- ? 
+- All
+- Hawk (Dorkus Dorkus): 2 observations
+- Crow (Corvus Corvus): 0 observations
+---
+- ? 
+- One
+- Bird? 
+- Hawk
+- Hawk (Dorkus Dorkus): 2 observations
+---
+- ? 
+- Quit
